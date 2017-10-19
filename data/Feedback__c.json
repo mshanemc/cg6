@@ -1,0 +1,312 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef1"
+            },
+            "Sentiment__c": "neutral",
+            "Sentiment_Probability__c": 0.8997569,
+            "Topic__c": "products",
+            "Comment__c": "The app isn't letting me place an order even though I can see the inventory"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef2"
+            },
+            "Sentiment__c": "negative",
+            "Sentiment_Probability__c": 0.36445433,
+            "Topic__c": "apps",
+            "Comment__c": "The app lost the order I was working on and I had to restart it. So frustrating!"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef3"
+            },
+            "Sentiment__c": "negative",
+            "Sentiment_Probability__c": 0.4223034,
+            "Topic__c": "apps",
+            "Comment__c": "Test Feedback after deploying latest version of the app."
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef4"
+            },
+            "Sentiment__c": "negative",
+            "Sentiment_Probability__c": 0.82358193,
+            "Topic__c": "products",
+            "Comment__c": "Your stupid app lost the order I was working on and I had to restart it.  That was a lot of work.  So frustrating"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef5"
+            },
+            "Sentiment__c": "negative",
+            "Sentiment_Probability__c": 0.36445433,
+            "Topic__c": "apps",
+            "Comment__c": "The app lost the order I was working on and I had to restart it. So frustrating!"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef6"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "you should make a mobile app",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef7"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "can we login with our facebook",
+            "Category__c": "question"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef8"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "can you translate the app into Portugese?",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef9"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "it'd be great if we could see our invoices in the portal",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef10"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "I don't like the design of the new app.  It's confusing and hard to use.  Can you bring back the old one",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef11"
+            },
+            "Sentiment__c": "negative",
+            "Sentiment_Probability__c": 0.3373683,
+            "Topic__c": "apps",
+            "Comment__c": "I had the app crash on me last night. Has anyone else had the same problem?",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef12"
+            },
+            "Sentiment__c": "negative",
+            "Sentiment_Probability__c": 0.54918337,
+            "Topic__c": "marketing",
+            "Comment__c": "Customers are confused about the latest models. It'd be great if there was a book showing each of them and a comparison on-page chart",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef13"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "The event went great, but there should be more in the summer when peopel are more likely to be out",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef14"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "Can we get more of the racing team posters?  Everyone's been loving those",
+            "Category__c": "request"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef15"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "We didn't receive the shipment that was supposed to come on Monday and we have an event on Friday.  We've got a lot of people coming and things have to be ready",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef16"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "Lots of people are canceling out of events at the last minute.  How can we get them to confirm and then may you could send them something to remind them",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef17"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "Radio commercials are sounding good.  Heard 2 of them this morning on the way in",
+            "Category__c": "compliment"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef18"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "When are the new radio messages coming out?",
+            "Category__c": "question"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef19"
+            },
+            "Topic__c": "marketing",
+            "Comment__c": "Where are those new radio spots we heard about?  I haven't heard any of them so far in Chicago",
+            "Category__c": "question"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef20"
+            },
+            "Topic__c": "products",
+            "Comment__c": "The last bike I received didn't have all of its manuals included.  Can you send me some extras",
+            "Category__c": "request"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef21"
+            },
+            "Topic__c": "products",
+            "Comment__c": "the new models are looking really nice.  I've gotten a lot of comments from customers walking by",
+            "Category__c": "compliment"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef22"
+            },
+            "Topic__c": "products",
+            "Comment__c": "Several customers said the handling felt a bit sluggish.  Can we tighten the steering?",
+            "Category__c": "request"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef23"
+            },
+            "Topic__c": "products",
+            "Comment__c": "That new one we just received was really, really fast!  Awesome.  Keep up the good work",
+            "Category__c": "compliment"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef24"
+            },
+            "Topic__c": "products",
+            "Comment__c": "There's a really long backlog on the 2017 model.  I've had several people that were interested but didn't want to wait for it so they walked away",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef25"
+            },
+            "Topic__c": "products",
+            "Comment__c": "Can we still get 2016 VIP models new, or are they all gone?  Asking for a customer who still wants the 2016 pricing",
+            "Category__c": "question"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef26"
+            },
+            "Topic__c": "products",
+            "Comment__c": "Are you going to keep making the red version, or is it really not going to be available anymore?  Several customers planning to buy one need to know.",
+            "Category__c": "question"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef27"
+            },
+            "Topic__c": "products",
+            "Comment__c": "I've had some problems with the fit of the new helmets.  Did we change the sizing?",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef28"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "We should let people export their racing scores from the app once they're done with it",
+            "Category__c": "suggestion"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef29"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "I'm having trouble with the invoicing portal on my Surface tablet",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef30"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "The configurator is taking a long time to load.",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef31"
+            },
+            "Topic__c": "apps",
+            "Comment__c": "The new configurator is really complicated.  I can see people getting frustrated and giving up",
+            "Category__c": "complaint"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef32"
+            },
+            "Sentiment__c": "neutral",
+            "Sentiment_Probability__c": 0.8997569,
+            "Topic__c": "apps",
+            "Comment__c": "The app isn't letting me place an order even though I can see the inventory"
+        },
+        {
+            "attributes": {
+                "type": "Feedback__c",
+                "referenceId": "Feedback__cRef33"
+            },
+            "Sentiment__c": "neutral",
+            "Sentiment_Probability__c": 0.8997569,
+            "Topic__c": "apps",
+            "Comment__c": "The app isn't letting me place an order even though I can see the inventory"
+        }
+    ]
+}

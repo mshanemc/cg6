@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>AuraDefinitionBundle</name>
+    <members>resetButton</members>
+  </types>
+  <types>
+    <name>ApexClass</name>
+    <members>reset</members>
+  </types>
+
+  <types>
+    <name>CustomObject</name>
+    <members>*</members>
+  </types>
+
+  <types>
+    <name>Layout</name>
+    <members>*</members>
+  </types>
+
+  <types>
+    <name>Flexipage</name>
+    <members>*</members>
+  </types>
+
+  <version>40.0</version>
+</Package>

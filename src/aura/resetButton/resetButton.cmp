@@ -1,0 +1,5 @@
+<aura:component controller="reset" implements="flexipage:availableForAllPageTypes">
+
+	<lightning:button variant="destructive" label="Reset" onclick="{!c.kill}"/>
+
+</aura:component>
